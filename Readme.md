@@ -29,7 +29,7 @@
 5. Шрифты, испрользуемые на сайте:   
 Circe Rounded DM Web Bold
 Circe Rounded DM Web
-6. Все скрипты загрузились 
+6. Все JS подключаются корректно
 52 / 384 requests
 42.5 kB / 838 kB transferred
 4.1 MB / 12.6 MB resources
